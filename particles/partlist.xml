@@ -1,0 +1,5 @@
+<particles>
+    <particle id="2002" name="camflash" />
+    <particle id="2021" name="fire" />
+    <particle id="2066" name="vent" />
+</particles>

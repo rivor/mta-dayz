@@ -1,0 +1,12 @@
+<meta>
+	<info author="kaasis" name="MTAZ Shop" description="Shop system for MTAZ" />
+
+	<min_mta_version client="1.5.0" server="1.5.0" />
+
+	<script src="shop_c.lua" type="client" cache="false" />
+	<script src="shop_s.lua" type="server" />
+
+    <map src="map/shop.map" dimension="0"></map>
+    <script src="map/mapEditorScriptingExtension_s.lua" type="server"></script>
+    <script src="map/mapEditorScriptingExtension_c.lua" cache="false" type="client" validate="false"></script>
+</meta>

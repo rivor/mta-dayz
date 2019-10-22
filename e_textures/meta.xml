@@ -1,0 +1,31 @@
+<meta>
+	<script src="shader.lua" type="client" cache="false"/>
+	<file src="shader.fx" />	
+	<file src="img/1.jpg" />		
+	<file src="img/2.jpg" />		
+	<file src="img/64.png" />		
+    <file src="img/13.png" />	
+	<file src="img/36.png" />	
+	<file src="img/38.png" />		
+	<file src="img/20.png" />	
+	<file src="img/21.png" />	
+	<file src="img/24.png" />	
+	<file src="img/72.png" />	
+	<file src="img/newtreeleaves128.png" />	
+	<file src="img/40.png" />		
+	<file src="img/26.png" />	
+	<file src="img/49.png" />	
+	<file src="img/58.png" />	
+	<file src="img/29.png" />	
+	<file src="img/28.png" />	
+	<file src="img/16.png" />	
+	<file src="img/10.png" />	
+	<file src="img/42.png" />	
+	<file src="img/39.png" />	
+	<file src="img/32.png" />	
+	<file src="img/5.png" />	
+	<file src="img/45465.png" />	
+	<file src="img/55.png" />	
+	<file src="img/565.jpg" />	
+	<file src="img/lamppost.jpg" />	
+</meta>

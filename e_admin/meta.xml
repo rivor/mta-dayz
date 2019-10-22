@@ -1,0 +1,28 @@
+<meta>
+	<info author="kaasis" name="dayz admin panel" description="dayz admin system" type="script" version="1.0.1" />
+
+	<min_mta_version client="1.5.0" server="1.5.0" />
+
+	<script src="admin_c.lua" type="client" cache="false" />
+	<script src="admin_s.lua" type="server" />
+
+	<script src="gui/main_gui.lua" type="client" cache="false" />
+	<script src="gui/kick_gui.lua" type="client" cache="false" />
+	<script src="gui/weather_gui.lua" type="client" cache="false" />
+	<script src="gui/dayzstats_gui.lua" type="client" cache="false" />
+	<script src="gui/error_gui.lua" type="client" cache="false" />
+	<script src="gui/ban_gui.lua" type="client" cache="false" />
+	<script src="gui/warp_gui.lua" type="client" cache="false" />
+	<script src="gui/mute_gui.lua" type="client" cache="false" />
+	<script src="gui/message_gui.lua" type="client" cache="false" />
+	<script src="gui/give_gui.lua" type="client" cache="false" />
+	<script src="gui/vehicle_gui.lua" type="client" cache="false" />
+
+	<script src="table/items.lua" type="client" cache="false" />
+	<script src="table/vehicles.lua" type="client" cache="false" />
+
+	<script src="functions.lua" type="client" cache="false" />
+
+	<script src="superman/server.lua" type="server" />
+  	<script src="superman/client.lua" type="client" cache="false" />
+</meta>

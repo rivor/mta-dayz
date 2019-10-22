@@ -1,0 +1,5 @@
+<meta>
+	<info author="orignal author unknown, edited by kaasis" type="script" name="area 51 radar" description="radar script" version="1.0.0"/>
+	<script src="server.lua" type="server" />
+	<script src="client.lua" type="client" cache="false" />
+</meta>

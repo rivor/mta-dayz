@@ -1,0 +1,25 @@
+<meta>
+    <info author="kaasis" name="Login Script" description="Script that allows to login or register" />
+    
+    <min_mta_version client="1.5.0" server="1.5.0" />
+    
+    <script src="settings_c.lua" type="client" cache="false" />
+    <script src="login_c.lua" type="client" cache="false" />
+    <script src="server.lua" type="server" />
+
+    <file src="logo.png" />
+    <file src="empty.png" />
+
+    <file src="shader/crosshair_shader.fx" />
+
+    <file src="crosshairs/1.png" />
+    <file src="crosshairs/2.png" />
+    <file src="crosshairs/3.png" />
+    <file src="crosshairs/4.png" />
+    <file src="crosshairs/5.png" />
+    <file src="crosshairs/hover.png" />
+
+    <map src="map/loginmap.map" dimension="0"></map>
+    <script src="map/mapEditorScriptingExtension_s.lua" type="server"></script>
+    <script src="map/mapEditorScriptingExtension_c.lua" type="client" validate="false" cache="false"></script>
+</meta>

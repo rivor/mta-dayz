@@ -1,0 +1,8 @@
+<meta>
+	<info author="kaasis" name="auto missions" description="auto mission system for mtaz" />
+
+	<min_mta_version client="1.5.0" server="1.5.0" />
+
+	<script src="missions_c.lua" type="client" cache="false" />
+	<script src="missions_s.lua" type="server" />
+</meta>

@@ -1,0 +1,12 @@
+<meta>
+	<info author="kaasis" name="Arma II GPS" type="script" version="1.0.0" />
+	
+	<script src="gps.lua" type="client" cache="false" />
+	
+	<file src="images/gps.png" />
+	<file src="images/player.png" />
+	<file src="images/players.png" />
+	<file src="images/world.jpg" />
+	<file src="images/blips/41.png" />
+	<file src="images/blips/56.png" />
+</meta>

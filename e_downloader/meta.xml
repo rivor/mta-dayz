@@ -1,0 +1,91 @@
+<meta>
+	<info author="kaasis" version="v1" type="script" name="" description="downloads mods when they are needed" />
+	
+	<script src="downloader.lua" type="client" cache="false" />
+
+	<file src="objects/cardboardbox.col" download="false" />
+	<file src="objects/cardboardbox.dff" download="false" />
+	<file src="objects/cardboardbox.txd" download="false" />
+
+	<file src="objects/parachute.dff" />
+	<file src="objects/parachute.txd" />
+	<file src="objects/landmine.dff" />
+	<file src="objects/landmine.txd" />
+	<file src="objects/safe.dff" />
+	<file src="objects/safe_destroyed.dff" />
+	<file src="objects/safe.txd" />
+	<file src="objects/safe.col" />
+	
+	<file src="objects/map/ang.col" />
+	<file src="objects/map/ang.dff" />
+	<file src="objects/map/ang.txd" />
+	<file src="objects/map/baguilok.col" />
+	<file src="objects/map/baguilok.dff" />
+	<file src="objects/map/baguilok.txd" />
+	<file src="objects/map/bigsandbags.col" />
+	<file src="objects/map/bigsandbags.dff" />
+	<file src="objects/map/bigsandbags.txd" />
+	<file src="objects/map/baraquement.col" />
+	<file src="objects/map/baraquement.dff" />
+	<file src="objects/map/baraquement.txd" />
+	<file src="objects/map/controltower.col" />
+	<file src="objects/map/controltower.dff" />
+	<file src="objects/map/controltower.txd" />
+	<file src="objects/map/fire.col" />
+	<file src="objects/map/fire.dff" />
+	<file src="objects/map/fire.txd" />
+	<file src="objects/map/fires.col" />
+	<file src="objects/map/fires.dff" />
+	<file src="objects/map/fires.txd" />
+	<file src="objects/map/medictent.col" />
+	<file src="objects/map/medictent.dff" />
+	<file src="objects/map/medictent.txd" />
+	<file src="objects/map/tents.col" />
+	<file src="objects/map/tents.dff" />
+	<file src="objects/map/tents.txd" />
+	<file src="objects/map/tents2.col" />
+	<file src="objects/map/tents2.dff" />
+	<file src="objects/map/tents2.txd" />
+	<file src="objects/map/torre.col" />
+	<file src="objects/map/torre.dff" />
+	<file src="objects/map/torre.txd" />
+	<file src="objects/map/wall.col" />
+	<file src="objects/map/wall.dff" />
+	<file src="objects/map/wall.txd" />
+
+	<file src="skins/admin.dff" />
+	<file src="skins/admin.txd" />
+
+	<file src="vehicles/maverick.dff" download="false" />
+	<file src="vehicles/maverick.txd" download="false" />
+	<file src="vehicles/pmaverick.dff" download="false" />
+	<file src="vehicles/pmaverick.txd" download="false" />
+	<file src="vehicles/hmmwv.dff" download="false" />
+	<file src="vehicles/hmmwv.txd" download="false" />
+	<file src="vehicles/pickup.dff" download="false" />
+	<file src="vehicles/pickup.txd" download="false" />
+	<file src="vehicles/motorcycle.dff" download="false" />
+	<file src="vehicles/motorcycle.txd" download="false" />
+	<file src="vehicles/ural.dff" download="false" />
+	<file src="vehicles/ural.txd" download="false" />
+	<file src="vehicles/pbx.dff" download="false" />
+	<file src="vehicles/pbx.txd" download="false" />
+	<file src="vehicles/bike.dff" download="false" />
+	<file src="vehicles/bike.txd" download="false" />
+	<file src="vehicles/atv.dff" download="false" />
+	<file src="vehicles/atv.txd" download="false" />
+	<file src="vehicles/motorbike.dff" download="false" />
+	<file src="vehicles/motorbike.txd" download="false" />
+	<file src="vehicles/suv.dff" download="false" />
+	<file src="vehicles/suv.txd" download="false" />
+	<file src="vehicles/tractor.dff" download="false" />
+	<file src="vehicles/tractor.txd" download="false" />
+	<file src="vehicles/uaz.dff" download="false" />
+	<file src="vehicles/uaz.txd" download="false" />
+	<file src="vehicles/sedan.dff" download="false" />
+	<file src="vehicles/sedan.txd" download="false" />
+	<file src="vehicles/modernvan.dff" download="false" />
+	<file src="vehicles/modernvan.txd" download="false" />
+	<file src="vehicles/armoredveh.dff" download="false" />
+	<file src="vehicles/armoredveh.txd" download="false" />
+</meta>
