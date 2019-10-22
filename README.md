@@ -27,7 +27,6 @@ Good, bug-free, lag-free, functional dayz gamemode.
 <resource src="noglitch" startup="1" protected="0" />
 ```
 4. and you're done!
-P.S there were some security protection things added that i removed in code before uploading, so if it isn't working as i didn't test it after removing it, then let me know but it should be fine.
 
 # Preview
 ![alt text](https://image.prntscr.com/image/lfkOVHKYRnmmGbiIRRdk1Q.png)
